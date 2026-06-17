@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Generated audio
+output/
+
+# Piper voices
+voices/
+
+# Downloads
+*.tar.gz
